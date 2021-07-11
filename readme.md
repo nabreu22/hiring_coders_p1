@@ -1,4 +1,4 @@
-## Simulação de uma pequena base de dados com o próprio Javascript simulando o json.
+## Simulação de uma base de dados com o próprio Javascript simulando o json.
 
 #### Nessa aplicação foram trabalhados conceitos de acesso a estrutura de dados, com um array de objetos, métodos de iteração como filter e sort, e sobre como:
 
