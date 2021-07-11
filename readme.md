@@ -7,3 +7,5 @@
 - Instalar uma dependência (readline sync) para pegar inputs do usuário pelo terminal.
 - Ignorar pasta "node modules", no git.
 - Fazer script start no package.json
+
+Este projeto foi desenvolvido no programa de formação fullstack, Hiring Coders, da Gama Academy.
