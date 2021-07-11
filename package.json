@@ -1,0 +1,23 @@
+{
+  "name": "hiring_coders_p1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabreu22/hiring_coders_p1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nabreu22/hiring_coders_p1/issues"
+  },
+  "homepage": "https://github.com/nabreu22/hiring_coders_p1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
